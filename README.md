@@ -6,6 +6,23 @@ BCC Student Searcher is a powerful Bangkok Christian College Student searcher wr
 * Select Database
 * Select Grade Level
 * Download Picture 
+* Display Picture
+
+### Currently available Database
+* **Database Student 2020**
+
+### Currently available Grade in Searcher
+* P1
+* P2
+* P3
+* P5
+* P6
+* M1
+* M2
+* M3
+* M4
+* M5
+* M6
 
 ## Usage
 - Run the jar.
