@@ -9,7 +9,8 @@ BCC Student Searcher is a powerful Bangkok Christian College Student searcher wr
 
 ## Usage
 - Run the jar.
+- Contact NotThatUwU#8328 and send him **HWID**. 
 - Done!
-- 
+
 ## Image of BCC Student Searcher
 ![Image of BCC Student Searcher](https://cdn.discordapp.com/attachments/790037893057609798/842915402052010054/Screenshot_6.png)
