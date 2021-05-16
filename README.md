@@ -1,6 +1,10 @@
 # BCC Student Searcher
 BCC Student Searcher is a powerful Bangkok Christian College Student searcher written by [NotThatUwU](https://github.com/NotThatUwU) for fun, **BUT not released for the public because incase teacher found this so they cant find my database 😄** 
 
+**This project is compleately clean no virus or skechy stuff feel free to use.**
+
+# This project only available for BCC Student, and dont attemt to crack / decompile it because it compleately obfuscated.
+
 ### Currently available Function
 * Input Student ID
 * Select Database
